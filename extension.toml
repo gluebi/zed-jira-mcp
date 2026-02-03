@@ -1,0 +1,9 @@
+id = "jira-mcp-server"
+name = "Jira MCP Server"
+version = "0.1.0"
+schema_version = 1
+authors = ["Oliver Pietsch <oliver.pietsch@myposter.de>"]
+description = "Connects Zed to a locally running Jira MCP Server for issue management"
+repository = "https://github.com/gluebi/zed-jira-mcp"
+
+[context_servers.jira-mcp-server]
